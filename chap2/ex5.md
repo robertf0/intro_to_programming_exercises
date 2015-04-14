@@ -1,0 +1,1 @@
+the first example prints 3 and the second example has an error because x was only defined inside of the block.

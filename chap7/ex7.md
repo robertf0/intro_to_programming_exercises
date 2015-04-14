@@ -1,0 +1,1 @@
+my_hash uses a symbol for a key and my_hash2 uses a variable for a key.

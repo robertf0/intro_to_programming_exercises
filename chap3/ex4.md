@@ -1,0 +1,1 @@
+It will not print anything because there is a return before the puts method.

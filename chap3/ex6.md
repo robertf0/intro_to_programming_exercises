@@ -1,0 +1,1 @@
+Only 1 argument is provided for the calculate_product method when there are 2 parameters.
